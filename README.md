@@ -14,7 +14,11 @@ Data Preprocessing techniques for machine learning
 ## Python Libraries Requirement
 
 1.Numpy
+
 2.Pandas
+
 3.Scikit 
+
 4.MatplotLib
+
 5.Seaborn
